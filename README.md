@@ -8,22 +8,22 @@
 
 | Item | Voorwaarden / Specificaties | Link | Bought | Packed |
 |------|------------------------------|------|--------|--------|
-| Whiteboardmarkers | Set van minimaal 4 kleuren, navulbaar of low-odor, medium punt | [link]() | [ ] | [ ] |
+| Whiteboardmarkers | Set van minimaal 4 kleuren, navulbaar of low-odor, medium punt | [link]() | [x] | [ ] |
 | Permanent markers / fineliners | Zwart, water- en veegvast, fijne punt (<1mm) | [link]() | [ ] | [ ] |
-| Pennen & potloden | Zwarte/Blauwe pennen, HB potloden, gummetje erbij | [link]() | [ ] | [ ] |
+| Pennen & potloden | Zwarte/Blauwe pennen, HB potloden, gummetje erbij | [link]() | [X] | [ ] |
 | Post-its | Super Sticky, mix kleuren, 75x75mm en 76x127mm | [link]() | [ ] | [ ] |
-| Dot-voting stickers | 8–10mm rond, meerdere kleuren, min. 500 stuks | [link]() | [ ] | [ ] |
+| Dot-voting stickers | 8–10mm rond, meerdere kleuren, min. 500 stuks | [link]() | [X] | [ ] |
 | Flip-over papier | 60x80cm, blanco, min. 40 vellen | [link]() | [ ] | [ ] |
 | Notitieblokjes / index cards | A6/A7 formaat, gelijnd/blanco, 100 stuks | [link]() | [ ] | [ ] |
-| Schilderstape / washi tape | Makkelijk verwijderbaar, 2-3 kleuren, 1–2cm breed | [link]() | [ ] | [ ] |
+| Schilderstape / washi tape | Makkelijk verwijderbaar, 2-3 kleuren, 1–2cm breed | [link]() | [X] | [ ] |
 | Blu-Tack / plakkers | Herbruikbaar, geschikt voor posters tot A1 | [link]() | [ ] | [ ] |
-| Schaar & lijmstift | Schaar >20cm, lijmstift >20g | [link]() | [ ] | [ ] |
-| Visuele timer / zandlopers | Instelbaar (5–30 min) of set zandlopers | [link]() | [ ] | [ ] |
-| Dobbelstenen (standaard & polyhedral) | 1 set D6 + 1 D&D set | [link]() | [ ] | [ ] |
+| Schaar & lijmstift | Schaar >20cm, lijmstift >20g | [link]() | [X] | [ ] |
+| Visuele timer / zandlopers | Instelbaar (5–30 min) of set zandlopers | [link]() | [X] | [ ] |
+| Dobbelstenen (standaard & polyhedral) | 1 set D6 + 1 D&D set | [link]() | [X] | [ ] |
 | Speelgeld / fiches | Min. 50 stuks, meerdere kleuren | [link]() | [ ] | [ ] |
 | LEGO of bouwblokjes | 200–300 stuks mix | [link]() | [ ] | [ ] |
 | Magnetische taak-kaartjes | Herbruikbaar, beschrijfbaar, min. 50 stuks | [link]() | [ ] | [ ] |
-| Bel / gong | Compact, goed hoorbaar | [link]() | [ ] | [ ] |
+| Bel / gong | Compact, goed hoorbaar | [link]() | [X] | [ ] |
 | Energizer props | Stressballen, fidget toys, lichte bal | [link]() | [ ] | [ ] |
 | Tokens (crypto simulatie) | Min. 20 stuks, stevig materiaal | [link]() | [ ] | [ ] |
 | Documentatie tripod | Smartphonehouder, hoogte tot 1,5m | [link]() | [ ] | [ ] |
@@ -52,12 +52,12 @@
 | Laptop + adapters | HDMI/VGA/USB-C, lichte laptop | [link]() | [ ] | [ ] |
 | Presentatie-clicker | Met laserpointer, bereik >10m | [link]() | [ ] | [ ] |
 | Mini-beamer | 720p+, 200+ lumen, compact | [link]() | [ ] | [ ] |
-| Smartphone / tablet | Camera + batterijduur >8u | [link]() | [ ] | [ ] |
+| Smartphone / tablet | Camera + batterijduur >8u | [link]() | [X] | [ ] |
 | Bluetooth speaker | Compact, 5u+, 10W+ | [link]() | [ ] | [ ] |
-| Stekkerdoos + verlengsnoer | 3–5 aansluitingen, 2m, geaard | [link]() | [ ] | [ ] |
+| Stekkerdoos + verlengsnoer | 3–5 aansluitingen, 2m, geaard | [link]() | [X] | [ ] |
 | Powerbank | 10.000–20.000 mAh | [link]() | [ ] | [ ] |
-| USB-stick | 32GB+, USB 3.0 | [link]() | [ ] | [ ] |
-| Mobiele WiFi-hotspot | 4G/5G, simlockvrij, 8u batterij | [link]() | [ ] | [ ] |
+| USB-stick | 32GB+, USB 3.0 | [link]() | [X] | [ ] |
+| Mobiele WiFi-hotspot | 4G/5G, simlockvrij, 8u batterij | [link]() | [X] | [ ] |
 
 
 ## 1. Schrijfmaterialen
