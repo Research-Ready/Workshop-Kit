@@ -3,6 +3,63 @@
 > Voor Scrum, Blockchain, Design Thinking, Action Research, Ideation en Simulaties.  
 > Symbolen: ✅ Printbaar | 🛒 Koopbaar | ⚖️ Hybride  
 
+## Koop Materialen.
+# 🛒 Workshopkit – Aankooptabel & Paklijst
+
+| Item | Voorwaarden / Specificaties | Link | Bought | Packed |
+|------|------------------------------|------|--------|--------|
+| Whiteboardmarkers | Set van minimaal 4 kleuren, navulbaar of low-odor, medium punt | [link]() | [ ] | [ ] |
+| Permanent markers / fineliners | Zwart, water- en veegvast, fijne punt (<1mm) | [link]() | [ ] | [ ] |
+| Pennen & potloden | Zwarte/Blauwe pennen, HB potloden, gummetje erbij | [link]() | [ ] | [ ] |
+| Post-its | Super Sticky, mix kleuren, 75x75mm en 76x127mm | [link]() | [ ] | [ ] |
+| Dot-voting stickers | 8–10mm rond, meerdere kleuren, min. 500 stuks | [link]() | [ ] | [ ] |
+| Flip-over papier | 60x80cm, blanco, min. 40 vellen | [link]() | [ ] | [ ] |
+| Notitieblokjes / index cards | A6/A7 formaat, gelijnd/blanco, 100 stuks | [link]() | [ ] | [ ] |
+| Schilderstape / washi tape | Makkelijk verwijderbaar, 2-3 kleuren, 1–2cm breed | [link]() | [ ] | [ ] |
+| Blu-Tack / plakkers | Herbruikbaar, geschikt voor posters tot A1 | [link]() | [ ] | [ ] |
+| Schaar & lijmstift | Schaar >20cm, lijmstift >20g | [link]() | [ ] | [ ] |
+| Visuele timer / zandlopers | Instelbaar (5–30 min) of set zandlopers | [link]() | [ ] | [ ] |
+| Dobbelstenen (standaard & polyhedral) | 1 set D6 + 1 D&D set | [link]() | [ ] | [ ] |
+| Speelgeld / fiches | Min. 50 stuks, meerdere kleuren | [link]() | [ ] | [ ] |
+| LEGO of bouwblokjes | 200–300 stuks mix | [link]() | [ ] | [ ] |
+| Magnetische taak-kaartjes | Herbruikbaar, beschrijfbaar, min. 50 stuks | [link]() | [ ] | [ ] |
+| Bel / gong | Compact, goed hoorbaar | [link]() | [ ] | [ ] |
+| Energizer props | Stressballen, fidget toys, lichte bal | [link]() | [ ] | [ ] |
+| Tokens (crypto simulatie) | Min. 20 stuks, stevig materiaal | [link]() | [ ] | [ ] |
+| Documentatie tripod | Smartphonehouder, hoogte tot 1,5m | [link]() | [ ] | [ ] |
+| Spreekobject | Bal of staf, opvallend, lichtgewicht | [link]() | [ ] | [ ] |
+| NFC-tags | 10–20 stuks, herprogrammeerbaar | [link]() | [ ] | [ ] |
+| Organizer koffer | Handbagage-formaat, stevig, compartimenten | [link]() | [ ] | [ ] |
+| Ziplocks / etuis | Mix S/M/L, transparant, herbruikbaar | [link]() | [ ] | [ ] |
+| Documentenmappen | A4/A3, stevig, met labelvak | [link]() | [ ] | [ ] |
+| Posterkoker | Verstelbaar 60–100cm, draagriem | [link]() | [ ] | [ ] |
+| Reservebatterijen & opladers | AA/AAA + laptop/phone adapters | [link]() | [ ] | [ ] |
+| Reinigingsdoekjes & wisser | Microvezel + spray | [link]() | [ ] | [ ] |
+| Kofferlabel | Waterdicht, naam + contact | [link]() | [ ] | [ ] |
+| Kleine magneten | Neodymium/rubber, 20–30 stuks | [link]() | [ ] | [ ] |
+| Kleurcoderingstape | 3–5 kleuren, max. 1cm breed | [link]() | [ ] | [ ] |
+| Knijpers / clips | 20 stuks, klein formaat | [link]() | [ ] | [ ] |
+| Extra energizers | Kaartjes + dobbelsteen met challenges | [link]() | [ ] | [ ] |
+| Kleur-blind veilige stickers | Patronen (stippen, strepen), 8–12mm | [link]() | [ ] | [ ] |
+| EHBO-set | Pleisters, pijnstillers, keelpastilles | [link]() | [ ] | [ ] |
+| Herbruikbare waterfles | BPA-vrij, 0,5L+, lekvrij | [link]() | [ ] | [ ] |
+| Snacks | Energiebars, notenmix | [link]() | [ ] | [ ] |
+| Visitekaartjes | Min. 100 stuks, professioneel design | [link]() | [ ] | [ ] |
+| Handontsmetting & tissues | Pocketformaat + 10–20 tissues | [link]() | [ ] | [ ] |
+| Prototyping materiaal | Klei, pijpenragers, karton, markers, lijm | [link]() | [ ] | [ ] |
+| Mini-evaluatiebord | Smiley/traffic-light, magnetisch of tafelversie | [link]() | [ ] | [ ] |
+| Energizer deck | 20–50 kaartjes met mini-games | [link]() | [ ] | [ ] |
+| Laptop + adapters | HDMI/VGA/USB-C, lichte laptop | [link]() | [ ] | [ ] |
+| Presentatie-clicker | Met laserpointer, bereik >10m | [link]() | [ ] | [ ] |
+| Mini-beamer | 720p+, 200+ lumen, compact | [link]() | [ ] | [ ] |
+| Smartphone / tablet | Camera + batterijduur >8u | [link]() | [ ] | [ ] |
+| Bluetooth speaker | Compact, 5u+, 10W+ | [link]() | [ ] | [ ] |
+| Stekkerdoos + verlengsnoer | 3–5 aansluitingen, 2m, geaard | [link]() | [ ] | [ ] |
+| Powerbank | 10.000–20.000 mAh | [link]() | [ ] | [ ] |
+| USB-stick | 32GB+, USB 3.0 | [link]() | [ ] | [ ] |
+| Mobiele WiFi-hotspot | 4G/5G, simlockvrij, 8u batterij | [link]() | [ ] | [ ] |
+
+
 ## 1. Schrijfmaterialen
 - [ ] 🛒 Whiteboardmarkers (meerdere kleuren) – voor borden en vellen  
 - [ ] 🛒 Permanent markers / fineliners – voor duidelijke notities  
