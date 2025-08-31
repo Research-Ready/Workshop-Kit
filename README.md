@@ -1,2 +1,1 @@
-# Workshop-Kit
-Workshop Kit Value Chain Hackers
+Top! Ik maak een gigantische checklist in Markdown met álle onderdelen van de mobiele workshopkit – printbare én koopbare – gesorteerd per categorie (zoals stemtools, rollen, simulaties, digitale tools). Bij elk onderdeel geef ik kort aan hoe je het gebruikt tijdens een sessie, zodat het ook een controlelijst is vóór vertrek of tijdens het inpakken.
